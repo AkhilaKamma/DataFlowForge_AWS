@@ -14,4 +14,5 @@ Data Management with DynamoDB: DataFlowForge integrates with DynamoDB to store i
 
 
 # Architecture:
-![Uploading image.png…]()
+
+![image](https://github.com/AkhilaKamma/DataFlowForge_AWS/assets/22701124/01cf70fc-f38d-4184-aeca-0f11d53aa41a)
