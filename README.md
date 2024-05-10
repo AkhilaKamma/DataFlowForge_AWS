@@ -11,3 +11,7 @@ Data Management with DynamoDB: DataFlowForge integrates with DynamoDB to store i
 **Data Processing and Output Generation:** The executed scripts retrieve input data from DynamoDB and files from S3, perform data processing tasks, and generate output files. The output files are then uploaded back to S3.
 
 **Data Persistence and Lifecycle Management:** DataFlowForge ensures the persistence of output data and associated metadata in DynamoDB, enabling easy retrieval and tracking. Additionally, it automates the termination of EC2 instances to optimize resource usage.
+
+
+# Architecture:
+![Uploading image.png…]()
